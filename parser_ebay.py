@@ -1,9 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-# from multiprocessing import Pool
-# from math import copysign
-# import concurrent.futures
 from threading import Thread
 import warnings
 import os
